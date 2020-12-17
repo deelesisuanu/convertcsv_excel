@@ -1,0 +1,20 @@
+.customStyle {
+    color: #fff;
+    background-color: blue;
+    padding: 25px;
+    margin: 25px;
+}
+
+.styleTable {
+    padding: 15px;
+}
+
+.styleTable thead th {
+    padding: 5px;
+    margin: 10px;
+}
+
+.styleTable tbody td {
+    padding: 5px;
+    margin: 10px;
+}
